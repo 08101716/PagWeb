@@ -1,0 +1,30 @@
+
+#perfil{
+    height: 100px;
+    width: 85px;
+    border: solid 4px;
+    border-color:   white;
+}
+#fondoPer{
+    width: auto;
+    height: auto;
+}
+#tablaCard{
+    width: 100%;
+}
+#A,#B,#C{
+    color: rgb(209, 208, 208);
+}
+#perPeq{
+    width: 37px;
+    height: 40px;
+    border: none;
+}
+#D{
+    border: none;
+}
+#nube{
+    width: 20px;
+    height: 20px;
+    color: green;
+}
